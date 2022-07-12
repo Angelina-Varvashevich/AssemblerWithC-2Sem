@@ -1,0 +1,4 @@
+﻿  Assembling tasks.asm...
+tasks.asm(115): error A2070: invalid instruction operands
+tasks.asm(117): error A2070: invalid instruction operands
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml.exe /c /nologo /Zi /Fo"Debug\tasks.obj" /W3 /errorReport:prompt  /Tatasks.asm" с кодом "1".

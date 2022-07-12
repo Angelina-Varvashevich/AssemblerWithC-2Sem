@@ -1,0 +1,3 @@
+D:/clion/2 sem/task 17_03_2022_asm/cmake-build-debug/CMakeFiles/task_17_03_2022_asm.dir
+D:/clion/2 sem/task 17_03_2022_asm/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/clion/2 sem/task 17_03_2022_asm/cmake-build-debug/CMakeFiles/rebuild_cache.dir

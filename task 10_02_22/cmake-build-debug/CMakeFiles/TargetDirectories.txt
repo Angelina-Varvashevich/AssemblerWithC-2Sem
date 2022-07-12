@@ -1,0 +1,3 @@
+D:/clion/2 sem/task 10_02_22/cmake-build-debug/CMakeFiles/task_10_02_22.dir
+D:/clion/2 sem/task 10_02_22/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/clion/2 sem/task 10_02_22/cmake-build-debug/CMakeFiles/rebuild_cache.dir

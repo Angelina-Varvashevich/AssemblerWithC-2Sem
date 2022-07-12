@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/clion/2 sem/task 10_02_22 second part/Tasks.cpp
+Tasks.h
+D:/clion/2 sem/task 10_02_22 second part/Tasks.h
+
+D:/clion/2 sem/task 10_02_22 second part/Tasks.h
+list
+-
+iostream
+-
+algorithm
+-
+fstream
+-
+vector
+-
+string
+-
+map
+-
+iterator
+-
+functional
+-
+
+D:/clion/2 sem/task 10_02_22 second part/main.cpp
+iostream
+-
+list
+-
+string
+-
+vector
+-
+Tasks.h
+D:/clion/2 sem/task 10_02_22 second part/Tasks.h
+

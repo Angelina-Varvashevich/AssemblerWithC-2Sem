@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/clion/2 sem/binary_tree/array_binary_tree.cpp
+array_binary_tree.h
+D:/clion/2 sem/binary_tree/array_binary_tree.h
+
+D:/clion/2 sem/binary_tree/array_binary_tree.h
+iostream
+-
+
+D:/clion/2 sem/binary_tree/main.cpp
+iostream
+-
+nodes_binary_tree.h
+D:/clion/2 sem/binary_tree/nodes_binary_tree.h
+array_binary_tree.h
+D:/clion/2 sem/binary_tree/array_binary_tree.h
+
+D:/clion/2 sem/binary_tree/nodes_binary_tree.h
+iostream
+-
+

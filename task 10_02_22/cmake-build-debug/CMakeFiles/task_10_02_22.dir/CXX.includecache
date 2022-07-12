@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/clion/2 sem/task 10_02_22/Flowerbed.h
+algorithm
+-
+string
+-
+vector
+-
+utility
+-
+
+D:/clion/2 sem/task 10_02_22/FlowerbedConversion.cpp
+FlowerbedConversion.h
+D:/clion/2 sem/task 10_02_22/FlowerbedConversion.h
+
+D:/clion/2 sem/task 10_02_22/FlowerbedConversion.h
+map
+-
+iostream
+-
+algorithm
+-
+list
+-
+string
+-
+functional
+-
+numeric
+-
+Flowerbed.h
+D:/clion/2 sem/task 10_02_22/Flowerbed.h
+

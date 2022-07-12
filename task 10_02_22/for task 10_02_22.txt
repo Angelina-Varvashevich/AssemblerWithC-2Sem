@@ -1,0 +1,10 @@
+1 circle chamomile
+2 rhomb chamomile, rose
+3 square chamomile, rose, violet	
+4 circle tulip, lily, cornflower
+5 rhomb chamomile rose, violet, tulip, lily
+6 circle chamomile, rose, violet, tulip, lily, cornflower
+7 square rose, violet
+8 square tulip
+9 square chamomile rose violet tulip lily cornflower
+10 circle lily

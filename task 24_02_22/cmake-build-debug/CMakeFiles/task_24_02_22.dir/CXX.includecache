@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/clion/2 sem/task 24_02_22/FileReader.h
+string
+-
+fstream
+-
+
+D:/clion/2 sem/task 24_02_22/List.h
+
+D:/clion/2 sem/task 24_02_22/SortedList.h
+functional
+-
+
+D:/clion/2 sem/task 24_02_22/StackOnList.h
+List.h
+D:/clion/2 sem/task 24_02_22/List.h
+
+D:/clion/2 sem/task 24_02_22/main.cpp
+iostream
+-
+functional
+-
+List.h
+D:/clion/2 sem/task 24_02_22/List.h
+SortedList.h
+D:/clion/2 sem/task 24_02_22/SortedList.h
+StackOnList.h
+D:/clion/2 sem/task 24_02_22/StackOnList.h
+FileReader.h
+D:/clion/2 sem/task 24_02_22/FileReader.h
+task6.h
+D:/clion/2 sem/task 24_02_22/task6.h
+
+D:/clion/2 sem/task 24_02_22/task6.cpp
+task6.h
+D:/clion/2 sem/task 24_02_22/task6.h
+StackOnList.h
+D:/clion/2 sem/task 24_02_22/StackOnList.h
+
+D:/clion/2 sem/task 24_02_22/task6.h
+iostream
+-
+vector
+-
+queue
+-
+sstream
+-
+stack
+-
+functional
+-
+

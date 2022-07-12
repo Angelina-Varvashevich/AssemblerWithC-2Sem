@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/clion/2 sem/task 10_03_2022/Tasks.h
+
+D:/clion/2 sem/task 10_03_2022/main.cpp
+iostream
+-
+Tasks.h
+D:/clion/2 sem/task 10_03_2022/Tasks.h
+

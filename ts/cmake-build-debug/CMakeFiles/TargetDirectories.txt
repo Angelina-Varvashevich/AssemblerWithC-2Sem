@@ -1,0 +1,3 @@
+D:/clion/2 sem/ts/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/clion/2 sem/ts/cmake-build-debug/CMakeFiles/ts.dir
+D:/clion/2 sem/ts/cmake-build-debug/CMakeFiles/rebuild_cache.dir
